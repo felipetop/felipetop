@@ -1,13 +1,13 @@
-## Olá, eu sou o Felipe 👋
+## Hi, I'm Felipe 👋
 
 Senior FullStack Engineer | Angular · TypeScript · Java · Spring Boot · REST APIs · Micro Frontends · Banking Systems · Cloud · AI Automation
 
-Mais de 10 anos de experiência desenvolvendo aplicações para os setores bancário, financeiro, aviação executiva e e-commerce. Atualmente na **Santander Tecnologia Brasil**, atuando em sistemas de missão crítica (Internet Banking, Pix, cartões).
+10+ years of experience building applications for banking, financial, executive aviation, and e-commerce sectors. Currently at **Santander Tecnologia Brasil**, working on mission-critical systems (Internet Banking, Pix, cards).
 
-- 🏦 Atualmente trabalhando com sistemas bancários de alta criticidade na Santander Tecnologia Brasil
-- 🎮 Desenvolvendo o [Mythimon](https://www.mythimon.com), um RPG Monster Tamer feito em Angular + Go, inspirado na cultura e fauna brasileira
-- 🤖 Explorando automação e agentes de IA aplicados ao desenvolvimento de software
-- 💬 Bora trocar uma ideia? Me chama no [LinkedIn](https://www.linkedin.com/in/felipe-jorge-sales-da-silva-95979047/)
+- 🏦 Currently working on high-criticality banking systems at Santander Tecnologia Brasil
+- 🎮 Building [Mythimon](https://www.mythimon.com), a Monster Tamer RPG built with Angular + Go, inspired by Brazilian folklore and wildlife
+- 🤖 Exploring AI automation and agents applied to software development
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/felipe-jorge-sales-da-silva-95979047/)
 
 ### 🛠️ Tech Stack
 
@@ -21,10 +21,10 @@ Mais de 10 anos de experiência desenvolvendo aplicações para os setores banc�
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🚀 Projetos
+### 🚀 Projects
 
-- 🎮 [Mythimon](https://www.mythimon.com) — RPG Monster Tamer feito em Angular (front) + Go (batalhas online em tempo real), inspirado no folclore e fauna brasileira ([jogue no Itch.io](https://felipetopwar.itch.io))
-- 🃏 [Truco Torneios](https://trucotorneios.com/) — plataforma de torneios de truco 2x2
+- 🎮 [Mythimon](https://www.mythimon.com) — Monster Tamer RPG built with Angular (frontend) + Go (real-time online battles), inspired by Brazilian folklore and wildlife ([play on Itch.io](https://felipetopwar.itch.io))
+- 🃏 [Truco Torneios](https://trucotorneios.com/) — 2x2 Truco tournament platform
 - 🔴 [poke-top](https://github.com/felipetop/poke-top)
 - ✅ [habit-tracker-REST](https://github.com/felipetop/habit-tracker-REST)
 
